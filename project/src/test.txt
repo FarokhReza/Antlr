@@ -1,0 +1,53 @@
+import ::(aclass, bclass, cclass). ;     ;
+import ::(math, *).;;
+
+DIRECTACCEsS DoSometing class inherited from DoA, DoeveryThing IMPlements AAa, BBB, ccc
+BEGIN 
+    inDIRECtaccess Static  Func calcuteGrade (age integer; Var atribute : strinG;) returns FloAt {
+    
+    	var grade : float = 3.4434
+    	switch a match 
+    	case 0: 
+    	case 1 : 
+            while (a == 4) BEgin
+            Rectangle Rect -> new Square(a, bc, 12, 43);
+            enD 
+            break;
+ 	    case 2 :  print("This is case 2") break;
+ 	    case 3 : break;
+	end
+	
+        for (var i : integer = 0; a == 100;i++) {
+            if { a >= b } THEN                       
+                a <- 4
+                conSTANT var [] arrayname : integer = {[3, 2]}
+            elif ( a == 4 && c == 'q' || str == "string" ) 
+            do
+            	restricted constant var myVar : integer = 0x0809A1F 
+                a <- p^(12)
+            end
+            
+            ELSE do as FOLLOW
+            	print("hello")
+            stop
+        }    
+	try {{
+	 c<-a/b
+	 c *= 2
+	 print("this is correct")
+	 
+	 }} 
+	catch (DivideExcep dividedByZero) 
+	begin 
+		print("you have an error ")
+	end
+    }
+    
+END  
+
+Proc isProc ( 
+	print(32)            
+        a <- a * 12;
+        );
+
+        
