@@ -1,1 +1,1 @@
-echo "# Antlr" >> README.md
+README.md
